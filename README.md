@@ -19,11 +19,11 @@ After some inspiration from the internet I came up with the (imo iconic) symbol 
 
 
 
-![purp @1x](./Icons/purp @1x.png)
+![purp @1x](./Icons/purp\ @1x.png)
 
 For the logo I worked around with the icon and how I could place the company name around it. I ended up with a striking and sharp font, Verlag, to keep the cleanliness and accent the mountain range.
 
-![purp icon purp wav copy](./Logo/purp icon purp wav copy.png)
+![purp icon purp wav copy](./Logo/purp\ icon\ purp\ wav\ copy.png)
 
 This would be the final designs that the client was sent. All the final designs are here in this Github repository, as well as some different icon colourings (check it out!). 
 
